@@ -133,7 +133,5 @@ You are free to use, modify, and distribute this software under the following co
 ## 📬 Contact & Support
 For feature requests, issues, or support:
 - Contact through the [Chrome Web Store support page]
-- Email: shadyghonim@gmail.com
-- LinkedIn: [Shady Ghonim](https://www.linkedin.com/in/shady-ghonim/)
-- Email: shadyghonim@gmail.com
+- Email: shady2000gh@gmail.com
 - LinkedIn: [Shady Ghonim](https://www.linkedin.com/in/shady-ghonim/)
