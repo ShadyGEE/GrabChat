@@ -24,6 +24,7 @@ Save your valuable conversations in **JSON**, **Markdown**, or **PDF** formats f
 * **OpenAI** — ChatGPT
 * **Anthropic** — Claude
 * **Google** — Gemini
+* **Google Search** — AI Mode
 * **Microsoft** — Copilot
 * **Perplexity AI**
 * **X AI** — Grok
