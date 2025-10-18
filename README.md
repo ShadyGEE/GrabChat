@@ -13,9 +13,6 @@ Save your valuable conversations in **JSON**, **Markdown**, or **PDF** formats f
 * **Multi-Platform Support** — Compatible with ChatGPT, Claude, Gemini, Google Search AI Mode, Copilot, Perplexity, Grok, DeepSeek, Qwen, and more.
 * **Structured JSON Format** — Clean, organized exports for easy parsing and reuse.
 * **Markdown & PDF Exports** — Save in compact, readable, and shareable formats.
-* **Export History** — Keep track of your previous exports effortlessly.
-* **Keyboard Shortcuts** — Use `Ctrl + E` (Windows/Linux) or `Cmd + E` (Mac) for instant exporting.
-* **Automatic File Naming** — Exports include platform name, title, and timestamp for clarity.
 
 ---
 
@@ -66,7 +63,7 @@ Includes the same structure as JSON, formatted for easy viewing and editing.
 
 ### PDF
 
-Optimized for readability, elegant style for sharing and presentation.
+Optimized for readability, elegant style for sharing and presenting.
 Includes:
 
 * Clean, professional layout
