@@ -1,4 +1,4 @@
-# 🧠 ChatGrabber
+# 🧠 GrabChat
 
 **Effortlessly export and back up your AI conversations from any major platform.**
 
