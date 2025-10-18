@@ -35,7 +35,7 @@ Save your valuable conversations in **JSON**, **Markdown**, or **PDF** formats f
 1. **Install** the extension from the Chrome Web Store.
 2. **Navigate** to any supported AI chat platform.
 3. **Open** the conversation you wish to export.
-4. **Click** the ChatGrabber icon in your Chrome toolbar.
+4. **Click** the GrabChat icon in your Chrome toolbar.
 5. **Select** “Export Chat” and choose your desired format (JSON / Markdown / PDF).
 6. **Save** the file to your preferred location.
 
