@@ -10,7 +10,7 @@ Save your valuable conversations in **JSON**, **Markdown**, or **PDF** formats f
 ## 🚀 Features
 
 * **One-Click Export** — Instantly export your entire conversation with a single click.
-* **Multi-Platform Support** — Compatible with ChatGPT, Claude, Gemini, Copilot, Perplexity, Grok, DeepSeek, Qwen, and more.
+* **Multi-Platform Support** — Compatible with ChatGPT, Claude, Gemini, Google Search AI Mode, Copilot, Perplexity, Grok, DeepSeek, Qwen, and more.
 * **Structured JSON Format** — Clean, organized exports for easy parsing and reuse.
 * **Markdown & PDF Exports** — Save in compact, readable, and shareable formats.
 * **Export History** — Keep track of your previous exports effortlessly.
@@ -132,5 +132,7 @@ You are free to use, modify, and distribute this software under the following co
 ## 📬 Contact & Support
 For feature requests, issues, or support:
 - Contact through the [Chrome Web Store support page]
+- Email: shadyghonim@gmail.com
+- LinkedIn: [Shady Ghonim](https://www.linkedin.com/in/shady-ghonim/)
 - Email: shadyghonim@gmail.com
 - LinkedIn: [Shady Ghonim](https://www.linkedin.com/in/shady-ghonim/)
