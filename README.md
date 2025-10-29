@@ -129,6 +129,6 @@ You are free to use, modify, and distribute this software under the following co
 
 ## 📬 Contact & Support
 For feature requests, issues, or support:
-- Contact through the [Chrome Web Store support page]
+- Contact through the [Chrome Web Store support page](https://chromewebstore.google.com/detail/grabchat-export-backup-ai/mljnfgdninaflbpajoepoiopjbheeepd?authuser=0&hl=en)
 - Email: shady2000gh@gmail.com
 - LinkedIn: [Shady Ghonim](https://www.linkedin.com/in/shady-ghonim/)
